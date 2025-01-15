@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADITYAWAGHMARE20
 - 👀 I’m interested in ... HEHE YOU
-- 🌱 I’m currently learning ... web dev,JAVA
+- 🌱 I’m currently learning ... cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...adityaswaghmare20@gmail.com
 - 💻 I've completed C,Python
