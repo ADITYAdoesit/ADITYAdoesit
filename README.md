@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Aditya Waghmare  
 
 💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker | ⚡ Penetration Tester         
-🎓 BCA Student @ Bharati Vidyapeeth (Avg SGPA: 9.45)  
+🎓 BCA Student @ Bharati Vidyapeeth (SGPA: 9.85)
    Top 5% on TryHackMe 
 
 ---
@@ -13,7 +13,7 @@
 ## 🚀 About Me  
 - 🔐 Hands-on with **100+ Security Labs & CTFs**  
 - 🕹️ Competed in **Pentathon 2025 (Rank: 538 / 20,000+)**  
-- 🛠️ Projects: **ASW-MSCAN (Malware Scanner)**, **Port Scanner**, **Keylogger**  
+- 🛠️ Projects: **ASW-MSCAN (Malware Scanner)**, **Keylogger**  
 - 🧠 Passionate about **Penetration Testing, Vulnerability Assessment & Offensive Security**  
 - 🌍 Based in Pune, India  
 
@@ -61,8 +61,8 @@
 
 - 🥇 Winner – QueryXplode (C-Googly 2025)  
 - 🥈 2nd Place – Tech Quiz (C-Googly 2024)  
-- 📌 Consistent Academic Performer (SGPA 9.45 / 10)  
-- 🎖️ Class Representative (BCA Program)  
+- 📌 Consistent Academic Performer (SGPA 9.85 / 10)  
+- 🎖️ Class Representative (Throughout the whole BCA Program)  
 
 ---
 
