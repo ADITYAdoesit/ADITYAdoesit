@@ -19,6 +19,14 @@
 
 ---
 
+
+## 🌟 Featured Projects  
+
+🔹 **[ASW-MSCAN](https://github.com/ADITYAdoesit/asw_mscan)** – Malware Scanner in Python (hash-based detection via VirusShare dataset)  
+🔹 **[Keylogger](https://github.com/ADITYAdoesit/Keylogger)** – Captures keystrokes with logging  
+
+---
+
 ## 🛠️ Tech Stack  
 
 **💻 Languages**  
@@ -48,14 +56,7 @@
 - ⚡ [Metasploit for Beginners](https://coursera.org/share/deb12bce04ee9a162cf7007564a176d6) – Coursera  
 - 🌐 [Internshala Web Development (HTML/CSS/JS)](https://trainings.internshala.com/view_certificate/8yg0v5ct350/4w4ykbx2d1y/)  
 
----
 
-## 🌟 Featured Projects  
-
-🔹 **[ASW-MSCAN](https://github.com/ADITYAdoesit/asw_mscan)** – Malware Scanner in Python (hash-based detection via VirusShare dataset)  
-🔹 **[Keylogger](https://github.com/ADITYAdoesit/Keylogger)** – Captures keystrokes with logging  
-
----
 
 ## 🏆 Achievements  
 
