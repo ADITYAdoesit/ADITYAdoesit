@@ -27,22 +27,11 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
-**💻 Languages**  
-![Python](https://img.shields.io/badge/Python-1E90FF?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-1E90FF?style=flat&logo=java&logoColor=white)   
-![C](https://img.shields.io/badge/C-1E90FF?style=flat&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=flat&logo=javascript&logoColor=white)  
-
-**🛡️ Cybersecurity Tools**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1E90FF?style=flat&logo=kalilinux&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?style=flat&logo=wireshark&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E90FF?style=flat&logo=burpsuite&logoColor=white)  ![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=flat&logo=metasploit&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-1E90FF?style=flat&logo=nmap&logoColor=white)  ![Splunk](https://img.shields.io/badge/Splunk-1E90FF?style=flat&logo=splunk&logoColor=white)  
-
-**⚙️ Operating Systems**  
-![Windows](https://img.shields.io/badge/Windows-1E90FF?style=flat&logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-1E90FF?style=flat&logo=linux&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali-1E90FF?style=flat&logo=kalilinux&logoColor=white)  
+| 💻 Languages | 🛡 Cybersecurity Tools | ⚙ Operating Systems |
+|--------------|------------------------|----------------------|
+| ![Python](https://img.shields.io/badge/Python-1E90FF?style=flat&logo=python&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-1E90FF?style=flat&logo=java&logoColor=white)<br>![C](https://img.shields.io/badge/C-1E90FF?style=flat&logo=c&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=flat&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=flat&logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=flat&logo=javascript&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1E90FF?style=flat&logo=kalilinux&logoColor=white)<br>![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?style=flat&logo=wireshark&logoColor=white)<br>![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E90FF?style=flat&logo=burpsuite&logoColor=white)<br>![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=flat&logo=metasploit&logoColor=white)<br>![Nmap](https://img.shields.io/badge/Nmap-1E90FF?style=flat&logo=nmap&logoColor=white)<br>![Splunk](https://img.shields.io/badge/Splunk-1E90FF?style=flat&logo=splunk&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-1E90FF?style=flat&logo=windows&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-1E90FF?style=flat&logo=linux&logoColor=white)<br>![Kali Linux](https://img.shields.io/badge/Kali-1E90FF?style=flat&logo=kalilinux&logoColor=white) |
 
 ---
 
