@@ -4,6 +4,8 @@
 💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker | ⚡ Penetration Tester         
 🎓 BCA Student @ Bharati Vidyapeeth (SGPA: 9.85)
    Top 5% on TryHackMe 
+   
+   Check Out My [Resume](https://adityadoesit.github.io/Aditya%20Waghmare%20Cybersecurity%20Resume.pdf) ! 
 
 ---
  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ADITYAdoesit.png)  
