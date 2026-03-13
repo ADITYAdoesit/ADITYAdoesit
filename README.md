@@ -63,7 +63,7 @@ Captures keystrokes with logging
 - 🎖️ Class Representative (Throughout the whole BCA Program)
 - 🥇 Winner – QueryXplode (C-Googly 2025)
 - 🥈 1st Runner Up - Crack The Code (Xpressions 2026)
-- 🥈 !st Runner Up – Tech Quiz (C-Googly 2024)  
+- 🥈 1st Runner Up – Tech Quiz (C-Googly 2024)  
 - 📌 Consistent Academic Performer (SGPA 9.85 / 10)  
   
 ---
