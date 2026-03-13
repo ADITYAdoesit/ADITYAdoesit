@@ -5,7 +5,7 @@
 🎓 BCA Student @ Bharati Vidyapeeth (SGPA: 9.85)
    Top 5% on TryHackMe 
    
-   Check Out My [Resume](https://adityadoesit.github.io/AdityaWaghmare_CYBSEC.pdf) ! 
+   Check Out My [Website](https://adityadoesit.github.io/AdityaWaghmare_CYBSEC.pdf) ! which obv has same things written but in a fancy manner.
 
 ---
  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ADITYAdoesit.png)  
