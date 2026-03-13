@@ -23,10 +23,18 @@
 
 
 ## 🌟 Featured Projects  
+🔹 **IMED-AWSM** – **Asset Workstation Asset Monitor**						***{Feb-March 26'}***
 
-🔹 **IMED-AWSM** – **Asset Workstation Asset Monitor** - Developed an Asset Management System for the Bharati Vidhyapeeth's Institute of Management and Entrepreneurship Development , where a centralized system for manageing college assets and liabilities was created and deployed. 
-🔹 **[ASW-MSCAN](https://github.com/ADITYAdoesit/asw_mscan)** – Malware Scanner in Python (hash-based detection via VirusShare dataset)  
-🔹 **[Keylogger](https://github.com/ADITYAdoesit/Keylogger)** – Captures keystrokes with logging  
+Developed an Asset Management System for the Bharati Vidhyapeeth's Institute of Management and Entrepreneurship Development ,
+where a centralized system for manageing college assets and liabilities was built and deployed. 
+##
+🔹 **[ASW-MSCAN](https://github.com/ADITYAdoesit/asw_mscan)**					***{Aug-Sept 25'}***
+
+   Malware Scanner in Python (hash-based detection via VirusShare dataset)  
+##
+🔹 **[Keylogger](https://github.com/ADITYAdoesit/Keylogger)**						***{July 25'}***
+
+Captures keystrokes with logging  
 
 ---
 
