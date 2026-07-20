@@ -20,7 +20,15 @@
 - 🌍 Based in Pune, India  
 
 ---
+## Work Experience
+🔹 **Institute of Management and Entrepreneurship Development (IMED)** | Jan 2026 – Present
 
+**Cybersecurity & Full-Stack Intern** *(under the guidance of the Deputy Director)*
+
+* **Developed a full-stack digital ecosystem**, IMED-AWSM (Asset Workstation Smart Monitor), under the strategic guidance of the Deputy Director of IMED to replace legacy manual tracking for 1,000+ institutional assets.
+* **Integrated a custom QR-code labeling engine** with specialized 75mm thermal roll support, enabling real-time physical auditing and location tracking via mobile browsers.
+* **Hardened the platform’s security posture** using Bcrypt, Helmet.js, and RBAC, while ensuring 24/7 LAN availability through PM2 process management and Static IP configuration.
+---
 
 ## 🌟 Featured Projects  
 🔹 **IMED-AWSM** – **Asset Workstation Asset Monitor**						***{Feb-March 26'}***
