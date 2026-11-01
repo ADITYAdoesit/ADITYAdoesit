@@ -1,8 +1,9 @@
 
 # 👋 Hey, I'm Aditya Waghmare  
 
-💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker | ⚡ Penetration Tester         
-🎓 BCA Student @ Bharati Vidyapeeth (SGPA: 9.85)
+💻 Cybersecurity Enthusiast | 🛡️ Ethical Hacker | ⚡ Penetration Tester  
+🎓 MCA Student @ MIT-WPU
+🎓 BCA Student @ Bharati Vidyapeeth (CGPA: 9.25)
    Top 5% on TryHackMe 
    
    Check Out My [Website](https://adityadoesit.github.io/AdityaWaghmare_CYBSEC.pdf) ! which obv has same things written but in a fancy manner.
